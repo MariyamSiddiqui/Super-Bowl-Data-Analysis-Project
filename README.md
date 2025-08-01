@@ -1,6 +1,5 @@
 # 🏈 Super Bowl Data Analysis Project
-![Super Bowl Analysis Banner](images/superbowl_banner.png)
-
+![Super Banner](https://am-prod-client-files.ppub-tmaws.io/superbowl/s3fs-public/content_page/images/16993907221794412138654aa5025cd5e_desktop.jpeg?versionId=x2vS9OX5xoSatyPWnYJsFGtFPMygt1sd)
 This project explores and analyzes data from Super Bowl games, focusing on TV viewership trends, game outcomes, and halftime show performances.
 
 ## 🔍 Objectives
