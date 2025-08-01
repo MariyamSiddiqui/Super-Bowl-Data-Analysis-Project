@@ -1,4 +1,5 @@
 # 🏈 Super Bowl Data Analysis Project
+![Super Bowl Analysis Banner](images/superbowl_banner.png)
 
 This project explores and analyzes data from Super Bowl games, focusing on TV viewership trends, game outcomes, and halftime show performances.
 
@@ -14,8 +15,6 @@ The data used in this project typically includes:
 - `tv.csv` – Super Bowl viewership data
 - `super_bowls.csv` – Game outcomes and stats
 - `halftime_musicians.csv` – Halftime show performers and song counts
-
-> If you’re using public datasets, include the source links here. Otherwise, say "Data included in repo."
 
 ## 🧪 Technologies
 
